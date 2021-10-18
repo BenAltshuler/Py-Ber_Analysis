@@ -10,7 +10,7 @@ This multiple line chart plots total fares for urban, suburban, and rural cities
 
 ### Summary
 
-analysis/PyBer_Sum_Table.png
+
 ![Summary](analysis/PyBer_Sum_Table.png?raw=true "PyBer Fares by City Type")
 
 Going forward, PyBer should expand the Dataframe with more ride data. A small snapshot like this is useful, but a larger set of data will only help shed more light on what strategies will ensure growth and stable service (and in which markets). PyBer could also expand its data collection to note rider demographics. We also did not stratify the data by external factors like special events in given cities. Weather, holidays, gas prices, et cetera could all influence our data. Controlling for these factors and analyzing their effects would greatly augment any future work. 
