@@ -15,4 +15,4 @@ This multiple line chart plots total fares for urban, suburban, and rural cities
 
 Going forward, PyBer should expand the Dataframe with more ride data. A small snapshot like this is useful, but a larger set of data will only help shed more light on what strategies will ensure growth and stable service (and in which markets). PyBer could also expand its data collection to note rider demographics. We also did not stratify the data by external factors like special events in given cities. Weather, holidays, gas prices, et cetera could all influence our data. Controlling for these factors and analyzing their effects would greatly augment any future work. 
 
-Finally, future analysis could incorporate reviews of drivers, and identify what traits or working conditions influence retention of PyBer customers and workers. Do these factors vary geographiclly? Socioeconomically? 
+Finally, future analysis could incorporate reviews of drivers, and identify what traits or working conditions influence retention of PyBer customers and workers. Do these factors vary geographically? Socioeconomically? 
